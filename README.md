@@ -1,2 +1,4 @@
 # public
-swe
+* SWE
+* building useful tools
+* learning along the way
